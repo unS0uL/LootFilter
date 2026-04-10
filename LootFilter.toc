@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: LootFilter
+## Notes: Allows you to automatically filter items on quality, value and name, when looting
+## Author: meter@darkenbane.com, unS0uL
+## Version: 2.0.0
+## OptionalDeps: Informant, LootLink, SellValue, PackRat
+## SavedVariables: LootFilterVars
+
+LootFilter.xml
